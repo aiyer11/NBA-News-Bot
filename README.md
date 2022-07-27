@@ -16,7 +16,7 @@ A Twitter Bot that tweets NBA News from ESPN at a scheduled time using AWS Lambd
 - An ide for Java preferably Eclipse or InteliJ (I use Spring Tools Suite)
 
 ## Setup
-- Pull the repo into your ide (Eclipse/InteliJ) and edit the application.properties to include your Twitter API keys and your NBA Latest News API key and host from RapidApi: https://rapidapi.com/savey03/api/nba-latest-news/.
+- Pull the repo into your ide and edit the application.properties to include your Twitter API keys and your NBA Latest News API key and host from RapidApi: https://rapidapi.com/savey03/api/nba-latest-news/.
 
 - Right click on the project, hover over Run As and click run configurations.
 
